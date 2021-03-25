@@ -223,3 +223,24 @@ See the [introduction](#Introduction).
 
   ### 9.2 external links
   Goto the [Google search engine](http://www.google.com)
+
+
+  ### 10 images
+  # Introduction
+  Include the png figure
+  ![j](images/ws9.2aQ1.1.png) 
+  
+
+
+  ### 11 footnotes
+
+
+  To create a footnote[^note1]
+
+[^note1]: A footnote marker cannot contain any spaces.
+
+
+  # Introduction
+  To create a footnote [^note1]
+  
+  [^note1] : A footnote marker cannot contain any spaces.
